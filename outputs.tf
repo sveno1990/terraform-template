@@ -1,3 +1,3 @@
-outputs {
-
+output "vm-key" {
+  value = ""
 }
